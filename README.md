@@ -39,7 +39,7 @@ Last edited time: August 26, 2024 11:24 AM
     - For the `Choice` column types, set the `Choices` field options to `Acceptable`, `Minor Issue`, & `Needs Repair`
     
     <aside>
-    💡 The column type options for Lists also include `Image`, `Yes/No`, `Calculated`, `Date and time`, & `Lookup`. [Follow this link to learn about all the different column types.][LISTS_COLUMN_TYPES]
+    💡 The column type options for Lists also include `Image`, `Yes/No`, `Calculated`, `Date and time`, & `Lookup`. [Follow this link to learn about all the different column types.][listsColumnTypes]
     
     </aside>
     
@@ -49,7 +49,7 @@ Last edited time: August 26, 2024 11:24 AM
 1. Upload a `CSV` or Excel spreadsheet of boating access projects to the `Documents` directory on your SharePoint site
     - Demo `CSV`:
         
-        [SOBA-2024-projects.csv][PROJECTS_CSV]
+        [SOBA-2024-projects.csv][projectsCSV]
         
 2. Create a new List
 3. Select the `From CSV` option
@@ -377,5 +377,5 @@ By default, the app will auto-populate with 3 different screens:
 9. Add members to control access to the app
 ---
 
-[LIST_COLUMN_TYPES]: https://support.microsoft.com/en-us/office/list-and-library-column-types-and-options-0d8ddb7b-7dc7-414d-a283-ee9dca891df7
-[PROJECT_CSV]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/SOBA-2024-projects.csv
+[listsColumnTypes]: https://support.microsoft.com/en-us/office/list-and-library-column-types-and-options-0d8ddb7b-7dc7-414d-a283-ee9dca891df7
+[projectsCSV]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/SOBA-2024-projects.csv
