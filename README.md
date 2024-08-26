@@ -1,11 +1,5 @@
-# SOBA-2024-Demo-App
-Full tutorial for building the Power App covered in the Leveraging Technology to Monitor Boating Access Projects presented at the States Organization for Boating Access (SOBA) 2024 Education and Training Symposium held in Wilmington, North Carolina.
-
 # SOBA 2024 Power App Demo
-
-Owner: Nathan Copeland
-Last edited time: August 26, 2024 11:24 AM
-
+Full tutorial for building the Power App covered in the Leveraging Technology to Monitor Boating Access Projects presented at the States Organization for Boating Access (SOBA) 2024 Education and Training Symposium held in Wilmington, North Carolina.
 ---
 
 # Setup Databases for Reports and Projects
