@@ -18,4 +18,4 @@
 [previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-home-screen.md
 [nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/publish.md
 
-[detailsScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
+[detailsScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/update-details-screen.md
