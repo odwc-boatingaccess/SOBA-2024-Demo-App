@@ -1,7 +1,7 @@
 # Setup a Database of Projects to Inspect
 
 1. Upload a `CSV` or Excel spreadsheet of boating access projects to the `Documents` directory on your SharePoint site
-  - [Demo `CSV`: SOBA-2024-projects.csv][projectsCSV]
+    - [Demo file: SOBA-2024-projects.csv][projectsCSV]
 2. Create a new List
 3. Select the `From CSV` option
 4. Under the `SOBA 2024 Demo > Documents` heading, select the `SOBA-2024-projects.csv` file and then click `Next`
