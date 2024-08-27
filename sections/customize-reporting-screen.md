@@ -160,3 +160,10 @@
 7. Select the `Title_DataCard2` object in the `Tree view` menu
 8. In the `Properties` view, toggle off the `Visible` field for the `Title_DataCard2` object
   - This object will not be accessible to the end users
+
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/edit-app-details.md
+[nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md

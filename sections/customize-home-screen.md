@@ -33,3 +33,10 @@
   ```visual-basic
   PaddlingLeft == Image3_appIcon.Width+15
   ```
+
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
+[nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/testing.md

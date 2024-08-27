@@ -10,3 +10,9 @@
 7. Share the URL or QR Code
 8. From your SharePoint site, add a button to the app
 9. Add members to control access to the app
+
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/testing.md

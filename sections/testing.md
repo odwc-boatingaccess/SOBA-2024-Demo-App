@@ -11,4 +11,11 @@
 8. Select the `✏️` icon to edit the report or the `🗑️` icon to delete the report
   - These options can be disabled by editing the associated elements within the [DetailScreen][detailsScreen]
 
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-home-screen.md
+[nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/publish.md
+
 [detailsScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md

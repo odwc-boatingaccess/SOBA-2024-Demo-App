@@ -9,3 +9,10 @@
 7. Select the `LblAppName2` element
 8. In the `Properties` view, select the `Text` field
 9. Edit the `Text` field value from `SOBA 2024 Inspection Reports` to `Completed Report`
+
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
+[nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-home-screen.md

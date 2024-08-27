@@ -25,4 +25,10 @@
   💡 The column type options for Lists also include `Image`, `Yes/No`, `Calculated`, `Date and time`, & `Lookup`. [Follow this link to learn about all the different column types.][listsColumnTypes]
   </aside>
 
+---
+
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/README.md
+[nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/upload-projects-database.md
 [listsColumnTypes]: https://support.microsoft.com/en-us/office/list-and-library-column-types-and-options-0d8ddb7b-7dc7-414d-a283-ee9dca891df7
