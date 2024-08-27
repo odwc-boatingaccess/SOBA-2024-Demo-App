@@ -2,7 +2,7 @@
 
 1. Select the `Publish` icon the top toolbar (next to the `Save 💾` icon)
 2. Select `Publish this version`
-  - If you need to edit the general settings for the app, select `Edit details`
+    - If you need to edit the general settings for the app, select `Edit details`
 3. Select the `← Back` option in the top toolbar
 4. Select `Leave`
 5. From the Power Apps homepage
