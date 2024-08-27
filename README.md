@@ -45,7 +45,7 @@ Full tutorial for building the Power App covered in the Leveraging Technology to
 [linkProjectDatabase]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/link-projects-database.md
 [editAppDetails]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/edit-app-details.md
 [customizeReprotingScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
-[updateDetailsScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
+[updateDetailsScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/update-details-screen.md
 [customizeHomeScreen]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-home-screen.md
 [testing]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/testing.md
 [publish]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/publish.md
