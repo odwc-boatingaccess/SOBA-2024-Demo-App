@@ -10,33 +10,33 @@
 1. Open the `Media` menu in the left-hand toolbar
 2. Select the `+ Add media` option
 3. Click `⬆️ Upload`to select an file
-  - Short, descriptive file names such as `SOBA-2024-icon.png` are easier to work with
+    - Short, descriptive file names such as `SOBA-2024-icon.png` are easier to work with
 4. Open the `Tree View` menu in the left-hand toolbar
 5. In the top toolbar, open the `+ Inset` menu
 6. Expand the `Media` submenu
 7. Select the `Image` option
-  - If the Data Card is locked, click `Unlock and Add` in the warning message
+    - If the Data Card is locked, click `Unlock and Add` in the warning message
 8. Add a descriptive name to the `Image` element by double-clicking the element
 9. In the `Properties` view, open the `Advanced` menu
 10. Update the `Image`, `Height`, `Radius`, `Width`, `X` & `Y` fields to create a round thumbnail of the user's profile photo
-  ```visual-basic
-  Image == 'SOBA-2024-icon'
-  Height == LblAppName1.Height
-  Width == LblAppName1.Height
-  X == LblAppName1.X
-  Y == LblAppName1.Y
-  ```
+    ```visual-basic
+    Image == 'SOBA-2024-icon'
+    Height == LblAppName1.Height
+    Width == LblAppName1.Height
+    X == LblAppName1.X
+    Y == LblAppName1.Y
+    ```
 
 11. Select the `LblAppName1` element
 12. In the `Properties` view, open the `Advanced` menu
 13. Update the `PaddlingLeft` field to prevent the app icon from covering the app name
-  ```visual-basic
-  PaddlingLeft == Image3_appIcon.Width+15
-  ```
+    ```visual-basic
+    PaddlingLeft == Image3_appIcon.Width+15
+    ```
 
 ---
 
 [<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
 
-[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/customize-reporting-screen.md
+[previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/update-details-screen.md
 [nextLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/testing.md
