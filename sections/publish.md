@@ -13,6 +13,7 @@
 
 ---
 
-[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Next <br> </kbd>][nextLink]
+[<kbd> <br> Previous <br> </kbd>][previousLink] [<kbd> <br> Home <br> </kbd>][homeLink]
 
 [previousLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/sections/testing.md
+[homeLink]: https://github.com/odwc-boatingaccess/SOBA-2024-Demo-App/blob/main/README.md
