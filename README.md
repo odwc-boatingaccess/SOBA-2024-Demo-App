@@ -19,16 +19,12 @@ Full tutorial for building the Power App covered in the Leveraging Technology to
 - [Edit the App Details][editAppDetails]
 - App Screens
   - By default, the app will auto-populate with 3 different screens:
-      - `BrowseScreen1`
-        - Displays data from the Reports Database
-        - Includes preloaded buttons and a search bar
-          - `Refresh 🔄`: initiates a sync with the connected database
-          - `Sort 🔃`: sorts the list of database rows by alphabetical order
-          - `Add ➕`: add a new entry to the database
-      - `DetailScreen1`
-        - View/Edit/Delete an entry from the database
-      - `EditScreen1`
-        - Create a new entry using the connected database's schema
+      - `BrowseScreen1`: Displays data from the Reports Database and includes preloaded buttons along with a search bar. 
+        - `Refresh 🔄`: initiates a sync with the connected database
+        - `Sort 🔃`: sorts the list of database rows by alphabetical order
+        - `Add ➕`: add a new entry to the database
+      - `DetailScreen1`: View/Edit/Delete an entry from the database
+      - `EditScreen1`: Create a new entry using the connected database's schema
 - [Customize the Reporting Screen (EditScreen1)][customizeReprotingScreen]
 - [Update the Report Details Screen (DetailScreen1)][updateDetailsScreen]
 - [Customize the Home Screen (BrowseScreen1)][customizeHomeScreen]
